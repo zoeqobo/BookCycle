@@ -2,7 +2,7 @@
 $conn = new mysqli(
     "sql302.infinityfree.com",
     "if0_42099094",
-    "ChocolateisNice",
+    "hidden",
     "if0_42099094_bookcycle"
 );
 
